@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m ML/AI educator.
+I’m a ML/AI educator.
