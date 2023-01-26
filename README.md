@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m a ML/AI educator.
+I’m a AI/ML/NLP engineer and educator.
